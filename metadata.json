@@ -1,0 +1,5 @@
+{
+  "name": "Trình chỉnh sửa & Tách đối tượng ảnh AI",
+  "description": "Tải ảnh lên để tách các đối tượng cụ thể như túi xách, quần áo hoặc các vật phẩm khác ra nền trắng. Bạn cũng có thể sử dụng các câu lệnh văn bản để thực hiện các chỉnh sửa mạnh mẽ, chẳng hạn như thêm bộ lọc hoặc xóa các yếu tố, được hỗ trợ bởi Gemini.",
+  "requestFramePermissions": []
+}
